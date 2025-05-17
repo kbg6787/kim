@@ -11,7 +11,7 @@ redirect_from:
 ## Work In Progress
 * "Do Scholarships Influence More Than One? Sibling Spillover Effects in College Scholarship" [project link](https://gpl.gsu.edu/project/sibling-spillover-effects-of-georgias-hope-scholarship/)
 * "Gun Violence in Schools and Teacher Mobility"
-* "Georgia Student Mobility and Long-run Impact: Nonstructural Mobility, Postsecondary Enrollment, and Earnings" (with Natalie Fruitt and Kevin Fortner)[project link](https://gpl.gsu.edu/project/student-mobility-postsecondary-enrollment-and-earnings/)
+* "Georgia Student Mobility and Long-run Impact: Nonstructural Mobility, Postsecondary Enrollment, and Earnings" (with Natalie Fruitt and Kevin Fortner) [project link](https://gpl.gsu.edu/project/student-mobility-postsecondary-enrollment-and-earnings/)
 * “Understanding Chronic Absenteeism and Evaluating Strategies to Promote Student Attendance” (with Tim R. Sass) [project link](https://gpl.gsu.edu/project/understanding-chronic-absenteeism-and-evaluating-strategies-to-promote-student-attendance/)
   
 
