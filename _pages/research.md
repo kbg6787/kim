@@ -21,7 +21,10 @@ redirect_from:
 * “Understanding Chronic Absenteeism and Evaluating Strategies to Promote Student Attendance” (with Tim R. Sass) [project link](https://gpl.gsu.edu/project/understanding-chronic-absenteeism-and-evaluating-strategies-to-promote-student-attendance/)
 
 
-  
+## Publications
+
+### Policy Report
+
 ### Pre-Doctoral Publications
 * “Relationship between Home Ownership and Political Orientation”, Korean Real Estate Review, 2021, 31(3). pp.29-44. (with Daehwan Kim) *in Korean*
 * “A Study on the Global Expansion of Companies and the Employment of Women”, The Women’s Studies, 2021, 111(4). pp.165-189. (with Daehwan Kim) *in Korean*
